@@ -1,0 +1,23 @@
+         150192 function calls in 0.097 seconds
+
+   Ordered by: cumulative time
+   List reduced from 62 to 15 due to restriction <15>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+   100000    0.079    0.000    0.084    0.000 C:\Users\V16 AI\AppData\Local\Temp\ipykernel_24724\2115874774.py:1(es_primo_optimizado)
+        2    0.000    0.000    0.043    0.022 c:\Users\V16 AI\.conda\envs\test_env\Lib\site-packages\IPython\core\interactiveshell.py:3665(run_code)
+        2    0.000    0.000    0.043    0.022 {built-in method builtins.exec}
+        1    0.001    0.001    0.043    0.043 C:\Users\V16 AI\AppData\Local\Temp\ipykernel_24724\3562870098.py:1(<module>)
+        1    0.005    0.005    0.042    0.042 C:\Users\V16 AI\AppData\Local\Temp\ipykernel_24724\2115874774.py:19(obtener_primos_optimizado)
+        5    0.007    0.001    0.040    0.008 c:\Users\V16 AI\.conda\envs\test_env\Lib\site-packages\zmq\sugar\socket.py:623(send)
+    49999    0.004    0.000    0.004    0.000 {built-in method math.sqrt}
+        2    0.000    0.000    0.000    0.000 c:\Users\V16 AI\.conda\envs\test_env\Lib\site-packages\traitlets\traitlets.py:708(__set__)
+        5    0.000    0.000    0.000    0.000 c:\Users\V16 AI\.conda\envs\test_env\Lib\enum.py:1582(__or__)
+        2    0.000    0.000    0.000    0.000 c:\Users\V16 AI\.conda\envs\test_env\Lib\site-packages\traitlets\traitlets.py:3631(set)
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+        2    0.000    0.000    0.000    0.000 c:\Users\V16 AI\.conda\envs\test_env\Lib\codeop.py:112(__call__)
+        2    0.000    0.000    0.000    0.000 c:\Users\V16 AI\.conda\envs\test_env\Lib\site-packages\traitlets\traitlets.py:689(set)
+        2    0.000    0.000    0.000    0.000 {built-in method builtins.compile}
+        2    0.000    0.000    0.000    0.000 c:\Users\V16 AI\.conda\envs\test_env\Lib\site-packages\traitlets\traitlets.py:718(_validate)
+
+
